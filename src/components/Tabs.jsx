@@ -208,7 +208,7 @@ const TabsHome = () => {
               transform: 'perspective(1000px)'
             }}
           >
-            Analytics that Tell Your Story
+            Analytics that Tell our Story
           </Typography>
           <Typography 
             variant="h4" 
@@ -224,7 +224,7 @@ const TabsHome = () => {
               transform: 'perspective(1000px) translateZ(0)'
             }}
           >
-            Discover insights across all your platforms with beautiful, interactive visualizations
+            Discover insights across our all platforms with beautiful, interactive visualizations
           </Typography>
         </Box>
           <AppBar position="static" color="transparent" elevation={0}>
